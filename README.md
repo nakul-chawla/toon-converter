@@ -164,4 +164,3 @@ MIT License - see LICENSE file for details.
 
 - GitHub: https://github.com/yourusername/toon-converter
 - PyPI: https://pypi.org/project/toon-converter/
-- Documentation: https://toon-converter.readthedocs.io/
