@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Nakul Chawla", email = "nakul.chawla1312@gmail.com"}
 ]
 keywords = ["json", "toon", "llm", "serialization", "converter"]
 classifiers = [
@@ -48,10 +48,10 @@ cli = [
 toon = "cli.main:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/toon-converter"
+Homepage = "https://github.com/nakul-chawla/toon-converter"
 Documentation = "https://toon-converter.readthedocs.io"
-Repository = "https://github.com/yourusername/toon-converter"
-Issues = "https://github.com/yourusername/toon-converter/issues"
+Repository = "https://github.com/nakul-chawla/toon-converter"
+Issues = "https://github.com/nakul-chawla/toon-converter/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
